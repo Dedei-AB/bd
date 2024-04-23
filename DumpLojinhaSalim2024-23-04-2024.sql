@@ -322,6 +322,8 @@ UNLOCK TABLES;
 -- Final view structure for view `pedidosDosClientes`
 --
 
+USE `lojinha_do_salim_2024`;
+
 /*!50001 DROP VIEW IF EXISTS `pedidosDosClientes`*/;
 /*!50001 SET @saved_cs_client          = @@character_set_client */;
 /*!50001 SET @saved_cs_results         = @@character_set_results */;
